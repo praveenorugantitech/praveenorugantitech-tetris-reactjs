@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-tetris-reactjs/static/css/main.57318f92.chunk.css",
+    "main.js": "/praveenorugantitech-tetris-reactjs/static/js/main.8a898c42.chunk.js",
+    "main.js.map": "/praveenorugantitech-tetris-reactjs/static/js/main.8a898c42.chunk.js.map",
+    "runtime-main.js": "/praveenorugantitech-tetris-reactjs/static/js/runtime-main.a3a4ec03.js",
+    "runtime-main.js.map": "/praveenorugantitech-tetris-reactjs/static/js/runtime-main.a3a4ec03.js.map",
+    "static/js/2.d30e56a5.chunk.js": "/praveenorugantitech-tetris-reactjs/static/js/2.d30e56a5.chunk.js",
+    "static/js/2.d30e56a5.chunk.js.map": "/praveenorugantitech-tetris-reactjs/static/js/2.d30e56a5.chunk.js.map",
+    "index.html": "/praveenorugantitech-tetris-reactjs/index.html",
+    "static/css/main.57318f92.chunk.css.map": "/praveenorugantitech-tetris-reactjs/static/css/main.57318f92.chunk.css.map",
+    "static/js/2.d30e56a5.chunk.js.LICENSE.txt": "/praveenorugantitech-tetris-reactjs/static/js/2.d30e56a5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/praveenorugantitech-tetris-reactjs/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.d63cfd51.png": "/praveenorugantitech-tetris-reactjs/static/media/bg.d63cfd51.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a4ec03.js",
+    "static/js/2.d30e56a5.chunk.js",
+    "static/css/main.57318f92.chunk.css",
+    "static/js/main.8a898c42.chunk.js"
+  ]
+}
